@@ -1,0 +1,80 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.145178,32.700353 ]
+    },
+    "properties": {
+    "zone":"City",
+    "area":"Barrio Logan",
+    "sub_area":"1000 CESAR CHAVEZ WAY",
+    "pole":"CC-1003",
+    "config_id":9000,
+    "config_name":"2 Hour Max $1.25 HR 8am-6pm Mon-Sat"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.145178,32.700352 ]
+    },
+    "properties": {
+    "zone":"City",
+    "area":"Barrio Logan",
+    "sub_area":"1000 CESAR CHAVEZ WAY",
+    "pole":"CC-1005",
+    "config_id":9000,
+    "config_name":"2 Hour Max $1.25 HR 8am-6pm Mon-Sat"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.145349,32.700155 ]
+    },
+    "properties": {
+    "zone":"City",
+    "area":"Barrio Logan",
+    "sub_area":"1000 CESAR CHAVEZ WAY",
+    "pole":"CC-1011",
+    "config_id":9000,
+    "config_name":"2 Hour Max $1.25 HR 8am-6pm Mon-Sat"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.145405,32.700107 ]
+    },
+    "properties": {
+    "zone":"City",
+    "area":"Barrio Logan",
+    "sub_area":"1000 CESAR CHAVEZ WAY",
+    "pole":"CC-1013",
+    "config_id":9000,
+    "config_name":"2 Hour Max $1.25 HR 8am-6pm Mon-Sat"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.145539,32.699987 ]
+    },
+    "properties": {
+    "zone":"City",
+    "area":"Barrio Logan",
+    "sub_area":"1000 CESAR CHAVEZ WAY",
+    "pole":"CC-1015",
+    "config_id":9000,
+    "config_name":"2 Hour Max $1.25 HR 8am-6pm Mon-Sat"
+    }
+  }
+]
+}
